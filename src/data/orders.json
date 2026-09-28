@@ -1,0 +1,7 @@
+[
+{"order_id":1001,"customer_id":1,"product":"Laptop","amount":75000},
+{"order_id":1002,"customer_id":2,"product":"Mobile","amount":30000},
+{"order_id":1003,"customer_id":1,"product":"Mouse","amount":1500},
+{"order_id":1004,"customer_id":3,"product":"Keyboard","amount":2500},
+{"order_id":1005,"customer_id":4,"product":"Monitor","amount":20000}
+]
