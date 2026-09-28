@@ -4,7 +4,7 @@ A structured collection of PySpark practice programs and hands-on
 exercises covering core Spark concepts, DataFrame operations, joins,
 aggregations, window functions, and data ingestion.
 
-## 📚 Topics Covered
+## Topics Covered
 
 -   Spark Basics
 -   Reading CSV and JSON Data
@@ -14,14 +14,14 @@ aggregations, window functions, and data ingestion.
 -   Window Functions
 -   Working with Sample Data
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 -   Python
 -   PySpark
 -   Apache Spark
 -   CSV & JSON
 
-## 📁 Repository Structure
+## Repository Structure
 
 ``` text
 PySpark_Practice/
@@ -37,7 +37,7 @@ PySpark_Practice/
     └── data/
 ```
 
-## 🎯 Objective
+## Objective
 
 This repository is used for learning and practicing PySpark through
 simple, focused examples and hands-on implementations.
