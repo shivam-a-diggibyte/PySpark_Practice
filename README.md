@@ -12,6 +12,11 @@ aggregations, window functions, and data ingestion.
 -   Joins
 -   Aggregations
 -   Window Functions
+-   Array Datatypes
+-   explode() Function
+-   Struct
+-   from_json() Function Implementation
+-   User Defined Functions (UDFs)
 -   Working with Sample Data
 
 ## Tools & Technologies
@@ -34,6 +39,11 @@ PySpark_Practice/
     ├── 04_joins/
     ├── 05_aggregations/
     ├── 06_window_function/
+    ├── 07_array_datatype/
+    ├── 08_explode_function_implementation/
+    ├── 09_struct/
+    ├── 10_from_json_function/
+    ├── 11_udf/
     └── data/
 ```
 
