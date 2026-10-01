@@ -32,6 +32,7 @@ reusable transformations, and Spark performance.
 -   Caching and Persistence
 -   Adaptive Query Execution (AQE)
 -   collect() and Driver Memory Considerations
+-   Medallion Architecture
 
 ## Tools & Technologies
 
@@ -39,8 +40,6 @@ reusable transformations, and Spark performance.
 -   PySpark
 -   Apache Spark
 -   Spark SQL
--   Delta Lake
--   Parquet
 -   CSV & JSON
 -   Pytest
 
@@ -68,6 +67,7 @@ PySpark_Practice/
     ├── 15_reusable_transformations/
     ├── 16_partitions/
     ├── 17_data_skew/
+    ├── 18_medallion_architecture/
     ├── util/
     └── data/
 ```
